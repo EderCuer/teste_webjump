@@ -16,3 +16,8 @@ O SO utilizado no desenvolvimento do projeto foi o Ubuntu, versão 18.04.
 ## Execução
 **1. Na pasta do projeto, executar:** ```npm run cypress:open```
 
+A página igual abaixo será aberta.
+![Página do cypress](cypress/images/img1.png)
+
+Após isso, clique no arquivo ```teste.spec.js```. O teste irá executar e ficará parecido com a imagem abaixo
+![Execução dos testes](cypress/images/img2.png)
