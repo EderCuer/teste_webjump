@@ -1,0 +1,10 @@
+{
+	"btn_one": "#btn_one",
+	"btn_two": "#btn_two",
+	"btn_four": "#btn_link",
+	"iframe": "#iframe_panel",
+	"firstName": "#first_name",
+	"optionThree": "#opt_three",
+	"selectBox": "select",
+	"imgSelenium": "[alt=selenium]"
+}

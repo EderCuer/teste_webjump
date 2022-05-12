@@ -1,0 +1,4 @@
+{
+	"baseUrl": "https://wj-qa-automation-test.github.io/qa-test/",
+	"chromeWebSecurity": false
+}
