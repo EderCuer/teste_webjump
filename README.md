@@ -1,5 +1,10 @@
 # Teste prático Webjump
 
+## Versões
+- NPM: 8.5.3
+- Nodejs: 17.6.0
+- JS: 13.14.0
+
 ## Sistema operacional
 O SO utilizado no desenvolvimento do projeto foi o Ubuntu, versão 18.04.
 
